@@ -3,14 +3,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6285174306183', 'NANZONE', true],
-  ['6285174306183'], 
-  ['6285174306183'],
-  ['6285880029379']
+  ['17728777776', 'YugaYamada', true],
+  ['17728777776'], 
+  ['17728777776'],
+  ['17728777776']
 ] //Numeros de owner 
 
-global.mods = ['6285174306183'] 
-global.prems = ['6285174306183', '6285174306183', '6285174306183']
+global.mods = ['17728777776'] 
+global.prems = ['17728777776', '17728777776', '17728777776']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
@@ -26,14 +26,14 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'NERO MD┃ᴮᴼᵀ' 
-global.author = '@nansoffc' 
-global.fgig = '▢ Ikuti saya di Instagram \nhttps://www.instagram.com/nansoffc\n' 
-global.dygp = 'https://chat.whatsapp.com/KLbE1i5U4y9I0OVli5jcKM'
-global.fgsc = 'https://github.com/nanzone' 
-global.fgyt = 'http://nansofficial.me/'
-global.fgpyp = 'https://saweria.co/nansofficial'
-global.fglog = 'https://i.ibb.co/Csp01NQ/nero-thumbnail.jpg' 
+global.packname = 'Cexlyn┃ᴮᴼᵀ' 
+global.author = '@YugaYamada' 
+global.fgig = '▢ Ikuti saya di Instagram \nhttps://www.instagram.com/septiannhdnata_\n' 
+global.dygp = 'https://chat.whatsapp.com/HjPoA3EZ2mc22ngHjZJLbE'
+global.fgsc = '-' 
+global.fgyt = '-'
+global.fgpyp = '-'
+global.fglog = 'https://telegra.ph/file/4fde38b8396a03e3edafb.jpg' 
 
 global.wait = '*⌛ _Loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
